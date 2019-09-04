@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280460586371",
+    "firebase_url": "https://what-happened-28722.firebaseio.com",
+    "project_id": "what-happened-28722",
+    "storage_bucket": "what-happened-28722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280460586371:android:e26dc9e64e44244780dab6",
+        "android_client_info": {
+          "package_name": "com.inodumayanga.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280460586371-9cbtmha7jq7gttdk6o670dnishkidl8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-rGBowtBjl2JX3_v528m9V2NOYBtkUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280460586371-9cbtmha7jq7gttdk6o670dnishkidl8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
